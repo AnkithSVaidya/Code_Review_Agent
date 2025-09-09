@@ -1,0 +1,7 @@
+/data
+/.venv/
+/python_data
+/Models
+/codeReviewer/app/__pycache__/
+/commentGeneration/app/__pycache__/
+/testvenv/
