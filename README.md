@@ -30,7 +30,7 @@ Visit our deployed web interface: **[https://streamlit-ui-586748801796.us-centra
 #### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Dhanshreeb05/CodeReviewAgent.git
+git clone https://github.com/AnkithSVaidya/Code_Review_Agent.git
 cd CodeReviewAgent
 
 # Install dependencies
